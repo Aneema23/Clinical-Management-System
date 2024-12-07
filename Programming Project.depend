@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708341387 source:c:\users\sanda\onedrive\documents\c++ folder\programming project\clinical management system.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<windows.h>
+

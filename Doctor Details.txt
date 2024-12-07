@@ -1,0 +1,5 @@
+ID     First Name     Last Name     DOB     Address     Contact Number     MLN     Subject     Work Days     Hours     User name     Password
+DId01 Nihal Gamage 1987/07/05 No14-MainRoad,Homagama 0715914320 MDF14056 Virology Monday,Friday 9.00a.m-1.00p.m Nihal Nihal5678 
+DId02 Saman Silva 1975/02/04 495/8-SamagiMawatha,Kaduwela 0715687540 MDF56023 Neurologist Tuesday,Sunday 8.00a.m-11.00a.m Saman Saman5678 
+DId03 Lakmini Dias 1969/05/26 No05-ViharaRoad,Gampaha 0782356789 MDF05894 Dentist Sunday 8.00a.m-1.00p.m Lakmini Lakmini5678 
+DId04 Piuma Wasala 1978/07/19 14/8-Ahangama,Galle 0713022540 MDF7896 Pediatrician Monday 9.00a.m-4.00p.m Piuma Piuma5678 

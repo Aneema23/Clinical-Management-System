@@ -1,0 +1,4 @@
+DId01 Nihal Gamage Virology Monday 9.00a.m-1.00p.m
+DId02 Saman Silva Neurologist Tuesday 8.00a.m-11.00a.m
+DId03 Lakmini Dias Dentist Sunday 8.00a.m-1.00p.m
+DId04 Piuma Wasala Pediatrician Monday 9.00a.m-4.00p.m

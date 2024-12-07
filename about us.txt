@@ -1,0 +1,66 @@
+
+			ABEC Clinical Management System
+
+
+	ABEC Clinical Management System is a part of LANKA Hospital in Colombo,Sri Lanka.
+Our Clinical Management System is a concept of Dr. A.U.U.Weerasinghe who is the owner of LANKA Hospital.
+
+Certainly! Here's an introduction about your Clinical Management System for users:
+
+---
+
+**About ABE Clinical Management System**
+
+	Welcome to the ABE Clinical Management System, 
+	  your trusted partner in modern healthcare management. 
+	  At ABE, we are dedicated to revolutionizing the way healthcare services are delivered and experienced.
+	  Our cutting-edge system is designed to empower both patients and healthcare providers by
+	  offering a seamless, efficient, and secure platform for managing clinical information.
+
+**Our Commitment:**
+
+*Empowering Patients:*
+	At the heart of our system is a commitment to empowering patients. 
+	We believe in putting your health information at your fingertips, 
+	allowing you to take control of your medical journey. 
+	With features like easy appointment scheduling, access to medical records, and personalized 
+	health services, our system is designed to enhance your overall healthcare experience.
+
+*Enabling Healthcare Professionals:*
+	For healthcare professionals, ABE Clinical Management System provides a robust platform 
+	for efficient practice management. Doctors can seamlessly manage their schedules, access 
+	patient records, and deliver timely and personalized care. We understand the importance of a streamlined
+	 workflow for healthcare providers, and our system is tailored to meet those needs.
+
+*Administrative Efficiency:*
+	Clinic administrators play a crucial role in ensuring the smooth operation of healthcare facilities. 
+	Our system offers administrative tools to register new patients and doctors, manage schedules, 
+	and maintain a secure and organized environment.
+
+**Key Features:**
+
+- *User-Friendly Interface: ** Navigate our intuitive interface with ease.
+  
+- *Patient-Centric Services:** Access your health information, schedule appointments, and more.
+
+- *Doctor's Dashboard:      ** Efficiently manage schedules and access patient records.
+
+- *Administrative Control:  ** Streamline clinic operations with powerful administrative tools.
+
+- *Security and Privacy:    ** We prioritize the security and confidentiality of your health data.
+
+**Getting Started:**
+	Whether you're a new user looking to create an account or a returning user seeking personalized 
+	healthcare services, the ABE Clinical Management System is designed to cater to your needs. 
+	Administrators can efficiently register new patients and doctors, ensuring a hassle-free 
+	onboarding process.
+
+	         ~~~~Thank you for choosing ABE Clinical Management System.~~~~
+ 
+	We are dedicated to providing you with a modern, secure, and user-centric healthcare experience. 
+	If you have any questions or require assistance, our support team is here to help.
+
+(Web site:ABEC/lankahospital.com)
+(Email   :abeclankahospital@gmail.com)
+(Tel     :011-1453620)
+(Address :578 Elvitigala Mawatha,Colombo)
